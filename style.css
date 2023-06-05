@@ -1,5 +1,20 @@
-*{
+/* *{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+} */
+
+.banner-image{
+    background-image: url(img/gaming-desktop-pc-computer-setup-gamer-illustration_691560-5795.avif);
+    background-size: cover;
+}
+
+li{
+    border-radius: 2rem;
+}
+
+li:hover{
+    background-color: wheat;
+    color: black;
+    transition: 0.2s;
 }
